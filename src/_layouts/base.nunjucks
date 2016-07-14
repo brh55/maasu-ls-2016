@@ -1,0 +1,70 @@
+{# Custom Configuration #}
+{% block config %}
+  {# Setup site's base URL to match the "baseUrl" key within `package.json` #}
+  {# Otherwise default to relative pathing #}
+  {% set baseUrl = config.baseUrl or './' %}
+{% endblock %}
+
+<!DOCTYPE html>
+
+<!--[if lt IE 9]>
+<html class="lt-ie9 no-js" lang="en">
+<![endif]-->
+<!--[if gte IE 9]><!-->
+<html lang="en" class="no-js">
+<!--<![endif]-->
+
+  <head>
+    <meta charset="utf-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+    <title>MAASU LS SUMMIT | Nov.12</title>
+    <meta name="description" content="Midwest Asian American Student Union presents the Leadership Summit 2016 held at Northwestern on November 12"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <link rel="stylesheet" href="{{baseUrl}}styles/main.css"/>
+
+    {% block stylesheets %}{% endblock %}
+
+  </head>
+  <body>
+    <!--[if lt IE 9]>
+    <p class="browsehappy">
+      You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.
+    </p>
+    <![endif]-->
+
+      <!-- Sidebar -->
+      <section id="sidebar">
+        <div class="inner">
+          <nav>
+            <ul>
+              <li><a href="#intro">Welcome</a></li>
+              <li><a href="#theme">Theme</a></li>
+              <li><a href="#sponsors">Sponsors</a></li>
+              <li><a href="#contact">Contact</a></li>
+              <!-- social icons -->
+              <li><a href="https://twitter.com/officialmaasu" target="_blank" class="social__icons"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+              <li><a href="https://www.facebook.com/MAASU-Leadership-Summit-16-Northwestern-University-1585100468469433/?fref=ts" class="social__icons" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+            </ul>
+          </nav>
+        </div>
+      </section>
+
+
+    <!-- Wrapper -->
+      <div id="wrapper">
+        {% block content %}{% endblock %}
+      </div>
+
+      <footer id="footer" class="wrapper alt">
+        <div class="inner">
+          <ul class="menu">
+            <li>&copy; MAASU LEADERSHIP SUMMIT. All rights reserved.</li>
+          </ul>
+        </div>
+      </footer>
+
+    <script src="{{baseUrl}}scripts/main.js"></script>
+    <script src="https://use.fontawesome.com/1131ceda39.js"></script>
+    {% block scripts %}{% endblock %}
+  </body>
+</html>

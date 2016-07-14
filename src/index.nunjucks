@@ -1,0 +1,140 @@
+{% extends '_layouts/base.nunjucks' %}
+
+
+{% block content %}
+<div class="home">
+  <!-- Intro -->
+  <div class="home__background-img">
+    <section id="intro" class="wrapper home__overlay fullscreen fade-up">
+      <div class="inner">
+        <h1>MIDWEST ASIAN AMERICAN </br> STUDENTS UNION </br>
+        LEADERSHIP SUMMIT 2016</h1>
+        <h3>November 12 at Northwestern University</h3>
+        <p>Join us as we <b class="subtitle-bold">Journey to the Center</b>.</p>
+        <ul class="actions">
+          <li><a href="http://maasu.org" target="_blank" class="button scrolly">about MAASU</a></li>
+          <li><a href="http://maasu.org" target="_blank" class="button scrolly">Register Now</a></li>
+        </ul>
+      </div>
+    </section>
+  </div>
+
+  <!-- One -->
+  <section id="theme" class="wrapper style2 spotlights about">
+    <section>
+      <img class="about__dandelion-img" src="{{baseUrl}}images/@2x_white-dandelion.png" alt="Dandelion with a maze in the center" data-position="center center" />
+      <div class="content">
+        <div class="inner">
+          <h2>The Theme</h2>
+          <p>This year’s proposed theme is “Journey to the Center.” Asian Americans continue to exist on the margins of visibility in almost every component of society— from politics, activism, sports, media, and more.</p>
+
+          <p>Our identities are constantly called into question, and we must be ready to think critically about those questions when the moment arises. That is why it is not enough to simply remain on the outskirts when racial tensions flare. We must inform and educate others about our personal struggles and shared histories because we are our own strongest advocates. And to do that, we must journey to the center.</p>
+        </div>
+      </div>
+    </section>
+    <section>
+      <a href="#" class="image"><img src="{{baseUrl}}images/guest1.jpeg" alt="" data-position="top center" /></a>
+      <div class="content">
+        <div class="inner">
+          <h2>Guest Speakers</h2>
+          <h3>Ji-Yeon Yuh</h3>
+          <p>Dr. Ji-Yeon Yuh specializes in Asian American history and Asian diasporas. She has done research on Korean military brides, refugees from North Korea, socialist Koreans in China and Japan in the post-WWII period, and on the Korean reunifcation movement in the United States. She has presented her research in Japan, China, Singapore, England, and at various conferences both international and U.S.-based. She is a co-founder of the Alliance of Scholars Concerned about Korea, an organization advocating peace on the Korean peninsula and serves as their Media Liaison and National Spokesperson. She is currently the Director of Asian American Studies at Northwestern.</p>
+          <ul class="actions">
+            <li><a href="#" class="button">Learn more</a></li>
+          </ul>
+        </div>
+      </div>
+    </section>
+    <section>
+    <a href="#" class="image"><img src="images/pic03.jpg" alt="" data-position="25% 25%" /></a>
+      <div class="content">
+        <div class="inner">
+          <h3>Phil Yu</h3>
+          <p>Also known as Angry Asian Man, Phil Yu is a Korean American blogger who is nationally recognized for his commentary on Asian American issues. Yu graduated with a B.S. in Radio/TV/Film from Northwestern University and earned a M.A. in Critical Studies from the University of Southern California School of Cinematic Arts. Yu is also a recipient of the 2011 AsianPacific Islander Heritage Award for Excellence in New Media from theCalifornia Asian Pacific Islander Legislative Caucus, the 2011 Public ImageAward from Asian Americans Advancing Justice, and the 2011 Excellence inMedia Award from OCA-Greater Los Angeles.</p>
+          <ul class="actions">
+            <li><a href="#" class="button">Learn more</a></li>
+          </ul>
+        </div>
+      </div>
+    </section>
+  </section>
+
+  <section id="two" class="wrapper style3 fade-up app">
+    <div class="inner">
+      <h2>Getting Around</h2>
+      <p>Download our conference application for information to guide you along your journey.</p>
+      <div class="features">
+        <section>
+          <span class="icon major fa-apple"></span>
+          <h3>Apple iPhones</h3>
+        </section>
+        <section>
+          <span class="icon major fa-android"></span>
+          <h3>Android Devices</h3>
+        </section>
+      </div>
+      <p>Don't have a capable device or out of space due to Pokemon Go? <br>
+      <b>Use our <a href="#">mobile web application</a>!</b><p>
+    </div>
+  </section>
+<!--
+  <section id="two" class="wrapper style3 fade-up">
+    <div class="inner">
+      <h2>Guest Speakers</h2>
+      <p>Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus, lacus eget hendrerit bibendum, urna est aliquam sem, sit amet imperdiet est velit quis lorem.</p>
+      <div class="features">
+        <section>
+          <span class="icon major fa-code"></span>
+          <h3>Lorem ipsum amet</h3>
+          <p>Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam turpis mauris, sed ultricies erat dapibus.</p>
+        </section>
+        <section>
+          <span class="icon major fa-lock"></span>
+          <h3>Aliquam sed nullam</h3>
+          <p>Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam turpis mauris, sed ultricies erat dapibus.</p>
+        </section>
+        <section>
+          <span class="icon major fa-cog"></span>
+          <h3>Sed erat ullam corper</h3>
+          <p>Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam turpis mauris, sed ultricies erat dapibus.</p>
+        </section>
+        <section>
+          <span class="icon major fa-desktop"></span>
+          <h3>Veroeros quis lorem</h3>
+          <p>Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam turpis mauris, sed ultricies erat dapibus.</p>
+        </section>
+        <section>
+          <span class="icon major fa-chain"></span>
+          <h3>Urna quis bibendum</h3>
+          <p>Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam turpis mauris, sed ultricies erat dapibus.</p>
+        </section>
+        <section>
+          <span class="icon major fa-diamond"></span>
+          <h3>Aliquam urna dapibus</h3>
+          <p>Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam turpis mauris, sed ultricies erat dapibus.</p>
+        </section>
+      </div>
+      <ul class="actions">
+        <li><a href="#" class="button">Learn more</a></li>
+      </ul>
+    </div>
+  </section>
+-->
+  <!-- Three -->
+  <section class="wrapper style1 fade-up">
+    <div id="sponsors" class="inner sponsorship">
+      <h2>Sponsors</h2>
+      <p>Interested in sponsoring us?</p>
+      <p>Learn more about our sponsor perks and benefits with our <a href="#">Sponsorship Packet</a>.</p>
+    </div>
+    <div id="contact" class="inner contact">
+      <h2>Get in touch with us</h2>
+      <p>Have any questions?</p>
+      <div class="style1">
+          <p>Feel free to email us at <a href="mailto:">test@maasu.org</a>
+          <br>and check out our <a href="#">Facebook</a> page for the latest conference updates.</p>
+      </div>
+    </div>
+  </section>
+</div>
+{% endblock %}

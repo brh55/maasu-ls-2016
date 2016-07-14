@@ -1,0 +1,5 @@
+{% extends '_layouts/base.nunjucks' %}
+
+    <div class="inner">
+        {% block content %}{% endblock %}
+    </div>
