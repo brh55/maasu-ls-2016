@@ -1,12 +1,11 @@
-# Maasu Leadership Summit readme
+# MAASU Leadership Summit 2016 Website
 
 Generated on 2016-07-05 using
 [generator-yeogurt@1.5.3](https://github.com/larsonjj/generator-yeogurt)
 
 ## Description
 
-This is an example readme file.
-Describe your site/app here.
+In no means this is ideal coding standards, and not everything is fully functional, but this is put together and extracted from the [HTML5Up](https://html5up.net/hyperspace) Hyperspace template as the base, and additional styles are layed on top with the "override" stylesheet.
 
 ## Technologies used
 
