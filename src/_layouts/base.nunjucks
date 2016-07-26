@@ -64,6 +64,7 @@
       </footer>
 
     <script src="{{baseUrl}}scripts/main.js"></script>
+    <script src="{{baseUrl}}scripts/theme/main.js"></script>
     <script src="https://use.fontawesome.com/1131ceda39.js"></script>
     {% block scripts %}{% endblock %}
   </body>

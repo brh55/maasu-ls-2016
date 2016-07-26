@@ -5,12 +5,16 @@
 <div class="home">
   <!-- Intro -->
   <div class="home__background-img">
-    <section id="intro" class="wrapper home__overlay fullscreen fade-up">
+    <section id="intro" class="intro wrapper home__overlay fullscreen fade-up">
       <div class="inner">
-        <h1>MIDWEST ASIAN AMERICAN </br> STUDENTS UNION </br>
-        LEADERSHIP SUMMIT 2016</h1>
         <h3>November 12 at Northwestern University</h3>
-        <p>Join us as we <b class="subtitle-bold">Journey to the Center</b>.</p>
+        <h1>Midwest</br>
+        Asian American </br>
+        Students Union </br>
+        Leadership Summit 2016</h1>
+        <div class="subtitle-wrap">
+          <p>Join us for a day where we think critically about our place in society, and, ultimately figure out ways to center our own narratives within conversations about social justice.</p>
+        </div>
         <ul class="actions">
           <li><a href="http://maasu.org" target="_blank" class="button scrolly">about MAASU</a></li>
           <li><a href="http://maasu.org" target="_blank" class="button scrolly">Register Now</a></li>
@@ -19,9 +23,57 @@
     </section>
   </div>
 
+  <section class="wrapper style5 fade-up about">
+    <div class="inner">
+        <h2>About</h2>
+        <h3 class="details">November 12, 2016 | 8:30 AM - 9:30 PM<br>
+        Northwestern University<br>
+        Evanston, IL</h3>
+
+        <p>Join fellow students, and community members at Northwestern University in Evanston, Illinois, as we learn and explore topics regarding social justice within the Asian American community.</p>
+
+        <p>Through various workshops, we hope to inspire future generations of students to hold tightly to their moral convictions and pursue a life that refuses to be complicit in the opression of themselves or others.</p>
+
+        <div class="row workshop-genres">
+          <div class="genre 3u 6u(small)">
+            <span class="fa-stack fa-3x">
+              <i class="fa fa-circle fa-stack-2x"></i>
+              <i class="fa fa-language fa-stack-1x fa-inverse"></i>
+            </span>
+            <h3>Culture</h3>
+            <p>Learning more about Asian American roots and how it affects us today.</p>
+          </div>
+          <div class="genre 3u 6u(small)">
+            <span class="fa-stack fa-3x">
+              <i class="fa fa-circle fa-stack-2x"></i>
+              <i class="fa fa-bullhorn fa-stack-1x fa-inverse"></i>
+            </span>
+            <h3>Activism</h3>
+            <p>Learning more about Asian American roots and how it affects us today.</p>
+          </div>
+          <div class="genre 3u 6u(small)">
+            <span class="fa-stack fa-3x">
+              <i class="fa fa-circle fa-stack-2x"></i>
+              <i class="fa fa-briefcase fa-stack-1x fa-inverse"></i>
+            </span>
+            <h3>Career</h3>
+            <p>Learning more about Asian American roots and how it affects us today.</p>
+          </div>
+          <div class="genre 3u 6u(small)">
+            <span class="fa-stack fa-3x">
+              <i class="fa fa-circle fa-stack-2x"></i>
+              <i class="fa fa-university fa-stack-1x fa-inverse"></i>
+            </span>
+            <h3>Politics</h3>
+            <p>Learning more about Asian American roots and how it affects us today.</p>
+          </div>
+        </div>
+    </div>
+  </section>
+
   <!-- One -->
-  <section id="theme" class="wrapper style2 spotlights about">
-    <section>
+  <section id="theme" class="wrapper style5 style6 spotlights about">
+    <section class="theme__overlay">
       <img class="about__dandelion-img" src="{{baseUrl}}images/@2x_white-dandelion.png" alt="Dandelion with a maze in the center" data-position="center center" />
       <div class="content">
         <div class="inner">
@@ -32,37 +84,48 @@
         </div>
       </div>
     </section>
-    <section>
-      <a href="#" class="image"><img src="{{baseUrl}}images/guest1.jpeg" alt="" data-position="top center" /></a>
-      <div class="content">
-        <div class="inner">
-          <h2>Guest Speakers</h2>
-          <h3>Ji-Yeon Yuh</h3>
-          <p>Dr. Ji-Yeon Yuh specializes in Asian American history and Asian diasporas. She has done research on Korean military brides, refugees from North Korea, socialist Koreans in China and Japan in the post-WWII period, and on the Korean reunifcation movement in the United States. She has presented her research in Japan, China, Singapore, England, and at various conferences both international and U.S.-based. She is a co-founder of the Alliance of Scholars Concerned about Korea, an organization advocating peace on the Korean peninsula and serves as their Media Liaison and National Spokesperson. She is currently the Director of Asian American Studies at Northwestern.</p>
-          <ul class="actions">
-            <li><a href="#" class="button">Learn more</a></li>
-          </ul>
-        </div>
-      </div>
-    </section>
-    <section>
-    <a href="#" class="image"><img src="images/pic03.jpg" alt="" data-position="25% 25%" /></a>
-      <div class="content">
-        <div class="inner">
-          <h3>Phil Yu</h3>
-          <p>Also known as Angry Asian Man, Phil Yu is a Korean American blogger who is nationally recognized for his commentary on Asian American issues. Yu graduated with a B.S. in Radio/TV/Film from Northwestern University and earned a M.A. in Critical Studies from the University of Southern California School of Cinematic Arts. Yu is also a recipient of the 2011 AsianPacific Islander Heritage Award for Excellence in New Media from theCalifornia Asian Pacific Islander Legislative Caucus, the 2011 Public ImageAward from Asian Americans Advancing Justice, and the 2011 Excellence inMedia Award from OCA-Greater Los Angeles.</p>
-          <ul class="actions">
-            <li><a href="#" class="button">Learn more</a></li>
-          </ul>
-        </div>
-      </div>
-    </section>
   </section>
 
-  <section id="two" class="wrapper style3 fade-up app">
+  <section class="wrapper style5 speakers">
+    <div class="shadow"></div>
     <div class="inner">
+      <h2>Speakers</h2>
+
+      <div class="row">
+        <div class="6u 12u(small) speaker">
+          <img src="{{baseUrl}}images/sample-face.png" alt="" data-position="top center" />
+          <h3>Ji-Yeon Yuh</h3>
+          <p>Dr. Ji-Yeon Yuh specializes in Asian American history and Asian diasporas. She has done research on Korean military brides, refugees from North Korea, socialist Koreans in China and Japan in the post-WWII period, and on the Korean reunifcation movement in the United States.</p>
+
+          <ul class="actions">
+            <li><a href="#" class="button">Learn more</a></li>
+          </ul>
+
+        </div>
+
+        <div class="6u 12u(small) speaker">
+          <img src="{{baseUrl}}images/sample-face.png" alt="" data-position="top center" />
+
+          <h3>Phil Yu</h3>
+          <p>Also known as Angry Asian Man, Phil Yu is a Korean American blogger who is nationally recognized for his commentary on Asian American issues. Yu graduated with a B.S. in Radio/TV/Film from Northwestern University and earned a M.A. in Critical Studies from the University of Southern California School of Cinematic Arts.</p>
+
+          <ul class="actions">
+            <li><a href="#" class="button">Learn more</a></li>
+          </ul>
+
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="two" class="wrapper style5 fade-up app">
+    <div class="inner overlay">
       <h2>Getting Around</h2>
-      <p>Download our conference application for information to guide you along your journey.</p>
+      <p>As you journey to the center, you shouldn't be going in blind, so we've compiled some useful resources below.</p>
+
+      <h3>At the Conference</h3>
+      <p>In efforts to promote an environmentally friendly conference, we have provided a mobile application to go along with our limited number of packets at the conference.</p>
+
       <div class="features">
         <section>
           <span class="icon major fa-apple"></span>
@@ -73,8 +136,21 @@
           <h3>Android Devices</h3>
         </section>
       </div>
+
       <p>Don't have a capable device or out of space due to Pokemon Go? <br>
-      <b>Use our <a href="#">mobile web application</a>!</b><p>
+      Use our <a href="#">mobile web application</a>!</b></p>
+    </div>
+    <div class="inner overlay">
+      <div class="row">
+      <section class="6u 12u(small)">
+        <h3>Parking</h3>
+        <p>For information regarding parking, <br>please reference our <a href="https://www.google.com/maps/d/u/1/embed?mid=16UckHYJdFlIixWIqCrGGvEw6hJ4" target="_blank">Leadership Summit Google Map</a>.</br> </p>
+      </section>
+
+      <section class="6u 12u(small)">
+        <h3>Venue</h3>
+        <p>The majority of the conference workshops and events will be held at <a href="http://www.northwestern.edu/norris/" target="_blank">Norris University Center</a>.</p>
+      </section>
     </div>
   </section>
 <!--
@@ -120,20 +196,29 @@
     </div>
   </section>
 -->
-  <!-- Three -->
-  <section class="wrapper style1 fade-up">
-    <div id="sponsors" class="inner sponsorship">
+  <!-- Sponsorship -->
+  <section class="wrapper style5 fade-up">
+    <div id="sponsors" class="inner ">
       <h2>Sponsors</h2>
+      <p>MAASU Leadership Summit wouldn't be possible without the generous support of our following sponsors. 🙏🏼</p>
+      <div class="sponsors__table">
+        <h3>Purple Sponsors</h3>
+        <h4>Gold Sponsors</h4>
+        <h4>Silver Sponsors</h4>
+        <h4>Bronze Sponsors</h4>
+      </div>
       <p>Interested in sponsoring us?</p>
       <p>Learn more about our sponsor perks and benefits with our <a href="#">Sponsorship Packet</a>.</p>
     </div>
+  </section>
+
+  <!-- Contact -->
+  <section class="wrapper style1">
     <div id="contact" class="inner contact">
       <h2>Get in touch with us</h2>
       <p>Have any questions?</p>
-      <div class="style1">
-          <p>Feel free to email us at <a href="mailto:">test@maasu.org</a>
-          <br>and check out our <a href="#">Facebook</a> page for the latest conference updates.</p>
-      </div>
+      <p>Feel free to email us at <a href="mailto:">test@maasu.org</a>
+      <br>and check out our <a href="#">Facebook</a> page for the latest conference updates.</p>
     </div>
   </section>
 </div>
