@@ -68,6 +68,7 @@
         color: #b1b1b1;
         margin: 4px 0 8px;
     }
+
 }
 
 .theme__overlay {
@@ -167,6 +168,19 @@ hr {
         padding: 10px 0;
         padding-left: 26px;
         border-left: 4px solid $orange;
+
+        &__announcement {
+            font-weight: 200;
+            color: #4e495a;
+            margin: 40px 0;
+            padding: 10px 0;
+            padding-left: 26px;
+            border-left: 4px solid #ff4343;
+
+            a {
+                @extend a;
+            }
+        }
     }
 
     .button {
@@ -184,7 +198,8 @@ hr {
         background: rgba(255,255,255, 0.84);
     }
 }
-.app__overlay {
-    
+
+a {
+    color: #dc50b3;
 }
 

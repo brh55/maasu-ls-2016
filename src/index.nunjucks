@@ -7,32 +7,60 @@
   <div class="home__background-img">
     <section id="intro" class="intro wrapper home__overlay fullscreen fade-up">
       <div class="inner">
-        <h3>November 12 at Northwestern University</h3>
-        <h1>Midwest</br>
-        Asian American </br>
-        Students Union </br>
-        Leadership Summit 2016</h1>
+
+        <h3>
+          November 12 at Northwestern University
+        </h3>
+
+        <h1>
+          Midwest</br>
+          Asian American</br>
+          Students Union</br>
+          Leadership Summit 2016
+        </h1>
+
         <div class="subtitle-wrap">
-          <p>Join us for a day where we think critically about our place in society, and, ultimately figure out ways to center our own narratives within conversations about social justice.</p>
+          <p>
+            Join us for a day where we think critically about our place in society, and, ultimately figure out ways to center our own narratives within conversations about social justice.
+          </p>
         </div>
+
         <ul class="actions">
-          <li><a href="http://maasu.org" target="_blank" class="button scrolly">about MAASU</a></li>
-          <li><a href="http://maasu.org" target="_blank" class="button scrolly">Register Now</a></li>
+          <li>
+            <a href="http://maasu.org" target="_blank" class="button scrolly">about MAASU</a>
+          </li>
+          <li>
+            <a href="#" target="_blank" class="button scrolly">Register Soon</a>
+          </li>
         </ul>
+
       </div>
     </section>
   </div>
 
   <section class="wrapper style5 fade-up about">
     <div class="inner">
-        <h2>About</h2>
-        <h3 class="details">November 12, 2016 | 8:30 AM - 9:30 PM<br>
-        Northwestern University<br>
-        Evanston, IL</h3>
+        <h2>
+          About
+        </h2>
 
-        <p>Join fellow students, and community members at Northwestern University in Evanston, Illinois, as we learn and explore topics regarding social justice within the Asian American community.</p>
+        <h3 class="details">
+          November 12, 2016 | 8:30 AM - 9:30 PM<br>
+          Northwestern University<br>
+          Evanston, IL
+        </h3>
 
-        <p>Through various workshops, we hope to inspire future generations of students to hold tightly to their moral convictions and pursue a life that refuses to be complicit in the opression of themselves or others.</p>
+        <h4 class="details__announcement">
+          Applications to <a href="https://goo.gl/forms/iYooUG0UCMGNoXEX2" target="_blank">submit workshop proposals</a> now open until Saturday, September 17 11:59 PM.
+        </h4>
+
+        <p>
+          Join fellow students, and community members at Northwestern University in Evanston, Illinois, as we learn and explore topics surrounding leadership and social justice within the Asian American and Pacific Islander community.
+        </p>
+
+        <p>
+          Through various workshops, we hope to inspire future generations of students to hold tightly to their moral convictions and pursue a life that refuses to be complicit in the oppression of themselves or others.
+        </p>
 
         <div class="row workshop-genres">
           <div class="genre 3u 6u(small)">
@@ -40,32 +68,53 @@
               <i class="fa fa-circle fa-stack-2x"></i>
               <i class="fa fa-language fa-stack-1x fa-inverse"></i>
             </span>
-            <h3>Culture</h3>
-            <p>Learning more about Asian American roots and how it affects us today.</p>
+            <h3>
+              Culture
+            </h3>
+            <p>
+              What factors shape our social identity
+            </p>
           </div>
+
           <div class="genre 3u 6u(small)">
             <span class="fa-stack fa-3x">
               <i class="fa fa-circle fa-stack-2x"></i>
               <i class="fa fa-bullhorn fa-stack-1x fa-inverse"></i>
             </span>
-            <h3>Activism</h3>
-            <p>Learning more about Asian American roots and how it affects us today.</p>
+
+            <h3>
+              Activism
+            </h3>
+            <p>
+              How we can advocate for ourselves and others
+            </p>
+
           </div>
           <div class="genre 3u 6u(small)">
+
             <span class="fa-stack fa-3x">
               <i class="fa fa-circle fa-stack-2x"></i>
               <i class="fa fa-briefcase fa-stack-1x fa-inverse"></i>
             </span>
-            <h3>Career</h3>
-            <p>Learning more about Asian American roots and how it affects us today.</p>
+
+            <h3>
+              Career
+            </h3>
+            <p>
+              Where our potential can take us
+            </p>
           </div>
           <div class="genre 3u 6u(small)">
             <span class="fa-stack fa-3x">
               <i class="fa fa-circle fa-stack-2x"></i>
               <i class="fa fa-university fa-stack-1x fa-inverse"></i>
             </span>
-            <h3>Politics</h3>
-            <p>Learning more about Asian American roots and how it affects us today.</p>
+            <h3>
+              Politics
+            </h3>
+            <p>
+              Who our allies are in office
+            </p>
           </div>
         </div>
     </div>
@@ -74,13 +123,20 @@
   <!-- One -->
   <section id="theme" class="wrapper style5 style6 spotlights about">
     <section class="theme__overlay">
-      <img class="about__dandelion-img" src="{{baseUrl}}images/@2x_white-dandelion.png" alt="Dandelion with a maze in the center" data-position="center center" />
+      //<img class="about__dandelion-img" src="{{baseUrl}}images/2x-white-dandelion.png" alt="Dandelion with a maze in the center" data-position="center center" />
       <div class="content">
         <div class="inner">
-          <h2>The Theme</h2>
-          <p>This year’s proposed theme is “Journey to the Center.” Asian Americans continue to exist on the margins of visibility in almost every component of society— from politics, activism, sports, media, and more.</p>
+          <h2>
+            The Theme
+          </h2>
+          <p>
+            This year’s proposed theme is “Journey to the Center.” Asian Americans continue to exist on the margins of visibility in almost every component of society— from politics, activism, sports, media, and more.
+          </p>
 
-          <p>Our identities are constantly called into question, and we must be ready to think critically about those questions when the moment arises. That is why it is not enough to simply remain on the outskirts when racial tensions flare. We must inform and educate others about our personal struggles and shared histories because we are our own strongest advocates. And to do that, we must journey to the center.</p>
+          <p>
+            Our identities are constantly called into question, and we must be ready to think critically about those questions when the moment arises. That is why it is not enough to simply remain on the outskirts when racial tensions flare. We must inform and educate others about our personal struggles and shared histories because we are our own strongest advocates. And to do that, we must journey to the center.
+          </p>
+
         </div>
       </div>
     </section>
@@ -89,56 +145,91 @@
   <section class="wrapper style5 speakers">
     <div class="shadow"></div>
     <div class="inner">
-      <h2>Speakers</h2>
+      <h2>
+        Special Guests
+      </h2>
+      <p>
+        <i>To be announced...</i>
+      </p>
 
+      <!-- Fill in when available
       <div class="row">
         <div class="6u 12u(small) speaker">
-          <img src="{{baseUrl}}images/sample-face.png" alt="" data-position="top center" />
-          <h3>Ji-Yeon Yuh</h3>
-          <p>Dr. Ji-Yeon Yuh specializes in Asian American history and Asian diasporas. She has done research on Korean military brides, refugees from North Korea, socialist Koreans in China and Japan in the post-WWII period, and on the Korean reunifcation movement in the United States.</p>
+          <img src="{{baseUrl}}images/placeholder.png" alt="" data-position="top center" />
+          
+          <h3>
+            Ji-Yeon Yuh
+          </h3>
+          
+          <p>
+            Dr. Ji-Yeon Yuh specializes in Asian American history and Asian diasporas. She has done research on Korean military brides, refugees from North Korea, socialist Koreans in China and Japan in the post-WWII period, and on the Korean reunifcation movement in the United States.
+          </p>
 
           <ul class="actions">
-            <li><a href="#" class="button">Learn more</a></li>
+            <li>
+              <a href="#" class="button">Learn more</a>
+            </li>
           </ul>
 
         </div>
 
         <div class="6u 12u(small) speaker">
-          <img src="{{baseUrl}}images/sample-face.png" alt="" data-position="top center" />
+          <img src="{{baseUrl}}images/placeholder.png" alt="" data-position="top center" />
 
-          <h3>Phil Yu</h3>
-          <p>Also known as Angry Asian Man, Phil Yu is a Korean American blogger who is nationally recognized for his commentary on Asian American issues. Yu graduated with a B.S. in Radio/TV/Film from Northwestern University and earned a M.A. in Critical Studies from the University of Southern California School of Cinematic Arts.</p>
+          <h3>
+            Phil Yu
+          </h3>
+          
+          <p>
+            Also known as Angry Asian Man, Phil Yu is a Korean American blogger who is nationally recognized for his commentary on Asian American issues. Yu graduated with a B.S. in Radio/TV/Film from Northwestern University and earned a M.A. in Critical Studies from the University of Southern California School of Cinematic Arts.
+          </p>
 
           <ul class="actions">
-            <li><a href="#" class="button">Learn more</a></li>
+            <li>
+              <a href="#" class="button">Learn more</a>
+            </li>
           </ul>
-
-        </div>
+        </div>          -->
       </div>
     </div>
   </section>
 
   <section id="two" class="wrapper style5 fade-up app">
     <div class="inner overlay">
-      <h2>Getting Around</h2>
-      <p>As you journey to the center, you shouldn't be going in blind, so we've compiled some useful resources below.</p>
+      <h2>
+        Getting Around
+      </h2>
+      <p>
+        As you journey to the center, you shouldn't be going in blind, so we've compiled some useful resources below.
+      </p>
 
-      <h3>At the Conference</h3>
-      <p>In efforts to promote an environmentally friendly conference, we have provided a mobile application to go along with our limited number of packets at the conference.</p>
-
+      <h3>
+        At the Conference
+      </h3>
+      <p>
+        In efforts to promote an environmentally friendly conference, we have provided a mobile application to go along with our limited number of packets at the conference.
+      </p>
+      <!-- Features Comment Out
       <div class="features">
         <section>
           <span class="icon major fa-apple"></span>
-          <h3>Apple iPhones</h3>
+          <h3>
+            Apple iPhones
+          </h3>
         </section>
         <section>
           <span class="icon major fa-android"></span>
-          <h3>Android Devices</h3>
+          <h3>
+            Android Devices
+          </h3>
         </section>
       </div>
 
-      <p>Don't have a capable device or out of space due to Pokemon Go? <br>
-      Use our <a href="#">mobile web application</a>!</b></p>
+      <p>
+        Don't have a capable device or out of space due to Pokemon Go? <br>
+        Use our <a href="#">mobile web application</a>!</b>
+      </p>
+      -->
     </div>
     <div class="inner overlay">
       <div class="row">
@@ -198,17 +289,10 @@
 -->
   <!-- Sponsorship -->
   <section class="wrapper style5 fade-up">
-    <div id="sponsors" class="inner ">
-      <h2>Sponsors</h2>
-      <p>MAASU Leadership Summit wouldn't be possible without the generous support of our following sponsors. 🙏🏼</p>
-      <div class="sponsors__table">
-        <h3>Purple Sponsors</h3>
-        <h4>Gold Sponsors</h4>
-        <h4>Silver Sponsors</h4>
-        <h4>Bronze Sponsors</h4>
-      </div>
-      <p>Interested in sponsoring us?</p>
-      <p>Learn more about our sponsor perks and benefits with our <a href="#">Sponsorship Packet</a>.</p>
+    <div id="supporters" class="inner">
+      <h2>Supporters</h2>
+      <p>MAASU Leadership Summit wouldn't be possible without the help of our supporters. 🙏🏼</p>
+      <p>Interested in supporting us?<br>Learn more about <a href="#" target="_blank">how to support us</a>.</p>
     </div>
   </section>
 
@@ -217,8 +301,8 @@
     <div id="contact" class="inner contact">
       <h2>Get in touch with us</h2>
       <p>Have any questions?</p>
-      <p>Feel free to email us at <a href="mailto:">test@maasu.org</a>
-      <br>and check out our <a href="#">Facebook</a> page for the latest conference updates.</p>
+      <p>Feel free to email us at <a href="mailto:leadershipsummit@maasu.org">leadershipsummit@maasu.org</a>
+      <br>and check out our <a href="https://www.facebook.com/MAASU-Leadership-Summit-16-Northwestern-University-1585100468469433/?fref=ts" target="_blank">Facebook</a> page for the latest conference updates.</p>
     </div>
   </section>
 </div>

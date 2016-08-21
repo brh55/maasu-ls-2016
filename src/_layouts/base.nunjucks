@@ -17,8 +17,9 @@
   <head>
     <meta charset="utf-8"/>
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
-    <title>MAASU LS SUMMIT | Nov.12</title>
-    <meta name="description" content="Midwest Asian American Student Union presents the Leadership Summit 2016 held at Northwestern on November 12"/>
+    <title>MAASU Leadership Summit | Nov.12 </title>
+    <meta name="description" content="The Midwest Asian American Students Union 2016 Leadership Summit will be hosted Northwestern University's Evanston campus. Join us for a day where we think critically about our place in society, and, ultimately figure out ways to center our own narratives within conversations about social justice."/>
+    <meta name="keywords" content="MAASU, Northwestern, Midwest Asian American Student Union, Social justice, Asian American, public conference">
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
     <link rel="stylesheet" href="{{baseUrl}}styles/main.css"/>
 
@@ -39,7 +40,7 @@
             <ul>
               <li><a href="#intro">Welcome</a></li>
               <li><a href="#theme">Theme</a></li>
-              <li><a href="#sponsors">Sponsors</a></li>
+              <li><a href="#supporters">Supporters</a></li>
               <li><a href="#contact">Contact</a></li>
               <!-- social icons -->
               <li><a href="https://twitter.com/officialmaasu" target="_blank" class="social__icons"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
