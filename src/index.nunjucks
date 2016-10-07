@@ -34,6 +34,12 @@
           </li>
         </ul>
 
+        <div class="subtitle-wrap">
+          <p>
+            For students looking to attend, but are in need of financial assistance, please visit <a href="http://maasu.org/conferences/">MAASU's conferences information page</a> for details regarding stipends.
+          </p>
+        </div>
+
       </div>
     </section>
   </div>
@@ -50,10 +56,6 @@
           Evanston, IL
         </h3>
 
-        <h4 class="details__announcement">
-          Applications to <a href="https://goo.gl/forms/iYooUG0UCMGNoXEX2" target="_blank">submit workshop proposals</a> now open until Saturday, September 17 11:59 PM.
-        </h4>
-
         <p>
           Join fellow students, and community members at Northwestern University in Evanston, Illinois, as we learn and explore topics surrounding leadership and social justice within the Asian American and Pacific Islander community.
         </p>
@@ -63,7 +65,7 @@
         </p>
 
         <div class="row workshop-genres">
-          <div class="genre 3u 6u(small)">
+          <div class="genre 4u 6u(small)">
             <span class="fa-stack fa-3x">
               <i class="fa fa-circle fa-stack-2x"></i>
               <i class="fa fa-language fa-stack-1x fa-inverse"></i>
@@ -76,7 +78,7 @@
             </p>
           </div>
 
-          <div class="genre 3u 6u(small)">
+          <div class="genre 4u 6u(small)">
             <span class="fa-stack fa-3x">
               <i class="fa fa-circle fa-stack-2x"></i>
               <i class="fa fa-bullhorn fa-stack-1x fa-inverse"></i>
@@ -90,7 +92,7 @@
             </p>
 
           </div>
-          <div class="genre 3u 6u(small)">
+          <div class="genre 4u 6u(small)">
 
             <span class="fa-stack fa-3x">
               <i class="fa fa-circle fa-stack-2x"></i>
@@ -102,18 +104,6 @@
             </h3>
             <p>
               Where our potential can take us
-            </p>
-          </div>
-          <div class="genre 3u 6u(small)">
-            <span class="fa-stack fa-3x">
-              <i class="fa fa-circle fa-stack-2x"></i>
-              <i class="fa fa-university fa-stack-1x fa-inverse"></i>
-            </span>
-            <h3>
-              Public Service
-            </h3>
-            <p>
-              Who in our community fight to protect our rights
             </p>
           </div>
         </div>
@@ -234,8 +224,8 @@
     <div class="inner overlay">
       <div class="row">
       <section class="6u 12u(small)">
-        <h3>Parking</h3>
-        <p>For information regarding parking, <br>please reference our <a href="https://www.google.com/maps/d/u/1/embed?mid=16UckHYJdFlIixWIqCrGGvEw6hJ4" target="_blank">Leadership Summit Google Map</a>.</br> </p>
+        <h3>Parking and Accommadations</h3>
+        <p>Please reference our <a href="https://www.google.com/maps/d/u/1/embed?mid=16UckHYJdFlIixWIqCrGGvEw6hJ4" target="_blank">Leadership Summit Google Map</a> for information regarding parking, and lodging in relation to the venue.</p>
       </section>
 
       <section class="6u 12u(small)">
