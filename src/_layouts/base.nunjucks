@@ -40,6 +40,7 @@
             <ul>
               <li><a href="#intro">Welcome</a></li>
               <li><a href="#theme">Theme</a></li>
+              <li><a href="#keyNote">Key Note</a></li>
               <li><a href="#supporters">Supporters</a></li>
               <li><a href="#contact">Contact</a></li>
               <!-- social icons -->
@@ -64,8 +65,6 @@
         </div>
       </footer>
 
-    <script src="{{baseUrl}}scripts/main.js"></script>
-    <script src="{{baseUrl}}scripts/theme/main.js"></script>
     <script src="https://use.fontawesome.com/1131ceda39.js"></script>
     {% block scripts %}{% endblock %}
   </body>

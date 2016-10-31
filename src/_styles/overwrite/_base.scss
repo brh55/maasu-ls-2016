@@ -17,6 +17,7 @@
 
     &__overlay {
         background-color: rgba(94, 66, 166, 0.90);
+        width: 100%;
     }
 
     .intro {
@@ -32,6 +33,10 @@
         .subtitle-wrap {
             @media screen and (min-width: $large) {
                 max-width: 70%;
+            }
+
+            &.extra-small {
+                font-size: rem(14px);
             }
         }
     }
@@ -196,6 +201,7 @@ hr {
 
     .overlay {
         background: rgba(255,255,255, 0.84);
+        width: 100%;
     }
 }
 

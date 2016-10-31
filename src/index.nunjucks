@@ -34,9 +34,9 @@
           </li>
         </ul>
 
-        <div class="subtitle-wrap">
+        <div class="subtitle-wrap extra-small">
           <p>
-            For students looking to attend, but are in need of financial assistance, please visit <a href="http://maasu.org/conferences/">MAASU's conferences information page</a> for details regarding stipends.
+            For traveling assistance, please refer to <a href="http://maasu.org/conferences/">MAASU conferences</a> information page.
           </p>
         </div>
 
@@ -113,7 +113,7 @@
   <!-- One -->
   <section id="theme" class="wrapper style5 style6 spotlights about">
     <section class="theme__overlay">
-      //<img class="about__dandelion-img" src="{{baseUrl}}images/2x-white-dandelion.png" alt="Dandelion with a maze in the center" data-position="center center" />
+      //<img class="about__dandelion-img" src="{{baseUrl}}images/@2x_white-dandelion.png" alt="Dandelion with a maze in the center" data-position="center center" />
       <div class="content">
         <div class="inner">
           <h2>
@@ -132,54 +132,36 @@
     </section>
   </section>
 
-  <section class="wrapper style5 speakers">
+  <section id="keyNote" class="wrapper style5 speakers">
     <div class="shadow"></div>
     <div class="inner">
       <h2>
-        Special Guests
+        Key Note
       </h2>
-      <p>
-        <i>To be announced...</i>
-      </p>
-
-      <!-- Fill in when available
       <div class="row">
         <div class="6u 12u(small) speaker">
-          <img src="{{baseUrl}}images/placeholder.png" alt="" data-position="top center" />
-          
+          <img src="{{baseUrl}}images/ji-yeon-yuh.jpg" alt="Ji Yeon Yuh Headshot" data-position="top center" />
+
           <h3>
             Ji-Yeon Yuh
           </h3>
-          
+
           <p>
-            Dr. Ji-Yeon Yuh specializes in Asian American history and Asian diasporas. She has done research on Korean military brides, refugees from North Korea, socialist Koreans in China and Japan in the post-WWII period, and on the Korean reunifcation movement in the United States.
+            Professor Yuh specializes in Asian American history and Asian diasporas. She is the author of Beyond the Shadow of Camptown: Korean Military Brides in America. A history of Korean women who immigrated to the United States as the wives of U.S. soldiers, this work examines the dynamics of race, culture, gender and nationalism from the perspective of Korean military brides. With a fellowship from the Social Science Research Council, she recently spent a year in China and Japan researching ethnic Korean communities for a comparative study of the Korean diaspora in China, Japan and the United States. She has also done research on refugees from North Korea, on socialist Koreans in China and Japan in the immediate post-WWII period, and on the Korean reunification movement in the United States. She is a co-founder of the <a href="http://www.asck.org" target="_blank">Alliance of Scholars Concerned about Korea</a>, an organization devoted to educating policy makers and the public, and serves as their Media Liaison and National Spokesperson.
           </p>
-
-          <ul class="actions">
-            <li>
-              <a href="#" class="button">Learn more</a>
-            </li>
-          </ul>
-
         </div>
 
         <div class="6u 12u(small) speaker">
-          <img src="{{baseUrl}}images/placeholder.png" alt="" data-position="top center" />
+          <img src="{{baseUrl}}images/lee-joseph.jpg" alt="Lee Joseph Headshot" data-position="top center" />
 
           <h3>
-            Phil Yu
+            Joseph Bokum Lee
           </h3>
-          
-          <p>
-            Also known as Angry Asian Man, Phil Yu is a Korean American blogger who is nationally recognized for his commentary on Asian American issues. Yu graduated with a B.S. in Radio/TV/Film from Northwestern University and earned a M.A. in Critical Studies from the University of Southern California School of Cinematic Arts.
-          </p>
 
-          <ul class="actions">
-            <li>
-              <a href="#" class="button">Learn more</a>
-            </li>
-          </ul>
-        </div>          -->
+          <p>
+            Joseph Bokum Lee is currently a pediatric resident and dual masters of public policy candidate at the University of Chicago, where he serves as a representative on the Diversity and Inclusion Trainee Committee, while also on the regional board of the American Academy of Pediatrics, American Medical Association, and Illinois State Medical Society. Joseph also holds the position of community representative of the Northside College Preparatory High School Local School Council; and founded the Road Less Traveled Fund, a non for profit that provides vehicles to single parents to better their lives. They were featured on ABC7 Chicago Salutes. Lastly, Joseph volunteers his time with the BEST basketball and Asian Americans for Advancing Justice organizations.
+          </p>
+        </div>
       </div>
     </div>
   </section>
@@ -224,7 +206,7 @@
     <div class="inner overlay">
       <div class="row">
       <section class="6u 12u(small)">
-        <h3>Parking and Accommadations</h3>
+        <h3>Parking and Accommodations</h3>
         <p>Please reference our <a href="https://www.google.com/maps/d/u/1/embed?mid=16UckHYJdFlIixWIqCrGGvEw6hJ4" target="_blank">Leadership Summit Google Map</a> for information regarding parking, and lodging in relation to the venue.</p>
       </section>
 
@@ -234,49 +216,6 @@
       </section>
     </div>
   </section>
-<!--
-  <section id="two" class="wrapper style3 fade-up">
-    <div class="inner">
-      <h2>Guest Speakers</h2>
-      <p>Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus, lacus eget hendrerit bibendum, urna est aliquam sem, sit amet imperdiet est velit quis lorem.</p>
-      <div class="features">
-        <section>
-          <span class="icon major fa-code"></span>
-          <h3>Lorem ipsum amet</h3>
-          <p>Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam turpis mauris, sed ultricies erat dapibus.</p>
-        </section>
-        <section>
-          <span class="icon major fa-lock"></span>
-          <h3>Aliquam sed nullam</h3>
-          <p>Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam turpis mauris, sed ultricies erat dapibus.</p>
-        </section>
-        <section>
-          <span class="icon major fa-cog"></span>
-          <h3>Sed erat ullam corper</h3>
-          <p>Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam turpis mauris, sed ultricies erat dapibus.</p>
-        </section>
-        <section>
-          <span class="icon major fa-desktop"></span>
-          <h3>Veroeros quis lorem</h3>
-          <p>Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam turpis mauris, sed ultricies erat dapibus.</p>
-        </section>
-        <section>
-          <span class="icon major fa-chain"></span>
-          <h3>Urna quis bibendum</h3>
-          <p>Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam turpis mauris, sed ultricies erat dapibus.</p>
-        </section>
-        <section>
-          <span class="icon major fa-diamond"></span>
-          <h3>Aliquam urna dapibus</h3>
-          <p>Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam turpis mauris, sed ultricies erat dapibus.</p>
-        </section>
-      </div>
-      <ul class="actions">
-        <li><a href="#" class="button">Learn more</a></li>
-      </ul>
-    </div>
-  </section>
--->
   <!-- Sponsorship -->
   <section class="wrapper style5 fade-up">
     <div id="supporters" class="inner">

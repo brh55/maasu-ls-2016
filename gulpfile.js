@@ -45,6 +45,7 @@ gulp.task('build', [
   'copy',
   'imagemin',
   'nunjucks',
+  'compress',
   'sass',
   'browserify'
 ]);
