@@ -29,14 +29,11 @@
           <li>
             <a href="http://maasu.org" target="_blank" class="button scrolly">about MAASU</a>
           </li>
-          <li>
-            <a href="http://nbo.universitytickets.com/user_pages/event.asp?id=1918&cid=105" target="_blank" class="button scrolly">Register</a>
-          </li>
         </ul>
 
         <div class="subtitle-wrap extra-small">
           <p>
-            For traveling assistance, please refer to <a href="http://maasu.org/conferences/">MAASU conferences</a> information page.
+            On behalf of the NU MAASU Leadership Summit committee, we thank you! Also, please take the <a href="https://missouri.qualtrics.com/SE/?SID=SV_4Z76OSYIFP3sc4J" target="_blank">survey</a> when you get a chance 🙏🏼, you would make all of us (especially Jonathon) happy!
           </p>
         </div>
 
@@ -217,11 +214,16 @@
     </div>
   </section>
   <!-- Sponsorship -->
-  <section class="wrapper style5 fade-up">
+  <section class="wrapper style5 fade-up supporters">
     <div id="supporters" class="inner">
       <h2>Supporters</h2>
       <p>MAASU Leadership Summit wouldn't be possible without the help of our supporters. 🙏🏼</p>
-      <p>Interested in supporting us?<br>Learn more about <a href="#" target="_blank">how to support us</a>.</p>
+      <img class="" src="{{baseUrl}}images/CIC_Logo_COLOR_Stacked.jpg" alt="CIC" data-position="center center" />
+      <img class="" src="{{baseUrl}}images/aasp_logo.jpg" alt="AASP Logo" data-position="center center" />
+      <img class="" src="{{baseUrl}}images/Office_Diversity_Inclusion_logo.jpg" alt="Office Diversity of Inclusion" data-position="center center" />
+      <img class="" src="{{baseUrl}}images/Campus_Life_LACE_logo.jpg" alt="Campus Life" data-position="center center" />
+      <img class="" src="{{baseUrl}}images/Divison_Logo_COLOR_Top Text.jpg" alt="Division Logo" data-position="center center" />
+      <img class="" src="{{baseUrl}}images/president_horizontal.jpg" alt="Office of President" data-position="center center" />
     </div>
   </section>
 
